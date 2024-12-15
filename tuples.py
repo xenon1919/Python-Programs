@@ -1,0 +1,5 @@
+T=("Samsung","Oppo","Vivo","Motorola","Realme","Redmi")
+print("\nCreated tuple is : ",T)
+print("\nSecond brand is : ",T[1])
+print("\nFrom 3-6 brands are : ",T[3:6])
+print("\nLength of Tuple is : ",len(T))
